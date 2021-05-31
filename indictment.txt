@@ -1,133 +1,55 @@
-Case 1:21-cr-00028-APM Document 127 Filed 03/31/21 Page 1 of 25
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 1 of 38
 
-UNITED STATES DISTRICT COURT
-FOR THE DISTRICT OF COLUMBIA
-Holding a Criminal Term
-Grand Jury Sworn in on January 8, 2021
-UNITED STATES OF AMERICA
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 2 of 38
 
-v.
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 3 of 38
 
-CRIMINAL NO. 21-cr-28-APM
-MAGISTRATE NO. 21-mj-260, 21-mj-284
-
-THOMAS CALDWELL,
-(Counts 1, 2, 3, 4, 5)
-
-VIOLATIONS:
-18 U.S.C. § 371 (Conspiracy)
-
-DO NOVAN CROWL,
-(Counts 1, 2, 3, 4)
-
-18 U.S.C. §§ 1512(c)(2), 2
-(Obstruction of an Official Proceeding and
-Aiding and Abetting)
-
-JESSICA WATKINS,
-(Counts 1, 2, 3, 4)
-SANDRA PARKER,
-(Counts 1, 2, 3, 4)
-BENNIE PARKER,
-(Counts 1, 2, 3, 4)
-GRAYDON YOUNG,
-(Counts 1, 2, 3, 4, 6)
-LAURA STEELE,
-(Counts 1, 2, 3, 4)
-KELLY MEGGS,
-(Counts 1, 2, 3, 4)
-CONNIE MEGGS,
-(Counts 1, 2, 3, 4)
-KENNETH HARRELSON,
-(Counts 1, 2, 3, 4)
-ROBERTO MINUTA, and
-(Counts 1, 2, 4)
-
-18 u.s.c. §§ 1361, 2
-(Destruction of Government Property and
-Aiding and Abetting)
-18 U.S.C. § 1752(a)(l)
-(Entering and Remaining in a Restricted
-Building or Grounds)
-18 U.S.C. § 1512(c)(l)
-(Tampering with Documents or
-Proceedings)
-
-Case 1:21-cr-00028-APM Document 127 Filed 03/31/21 Page 2 of 25
-
-JOSHUA JAMES,
-(Counts 1, 2, 4)
-Defendants.
-
-THIRD SUPERSEDING INDICTMENT
-
-The Grand Jury charges that, at all times material to this Indictment, on or about the dates
-stated below:
-Introduction
-
-The 2020 United States Presidential Election and the Official Proceeding on January 6, 2021
-1.
-
-The 2020 United States Presidential Election occurred on November 3, 2020.
-
-2.
-
-The United States Electoral College ("Electoral College") is a group required by
-
-the Constitution to form every four years for the sole purpose of electing the president and vice
-president, with each state appointing its own electors in a number equal to the size of that state's
-Congressional delegation.
-3.
-
-On December 14, 2020, the presidential electors of the Electoral College met in the
-
-state capital of each state and in the District of Columbia and formalized the result of the 2020
-U.S. Presidential Election: Joseph R. Biden Jr. and Kamala D. Harris were declared to have won
-sufficient votes to be elected the next president and vice president of the United States.
 4.
 
 On January 6, 2021, a Joint Session of the United States House of Representatives
 
-and the United States Senate ("the Joint Session") convened in the United States Capitol ("the
-Capitol") building to certify the vote of the Electoral College of the 2020 U.S. Presidential Election
-("the Electoral College vote").
+and the United States Senate (“the Joint Session”) convened in the United States Capitol (“the
+Capitol”) building. The purpose of the Joint Session was to open, count, and resolve any objections
+to the Electoral College vote of the 2020 U.S. Presidential Election, and to certify the results of
+the Electoral College vote (“Certification of the Electoral College vote”) as set out in the Twelfth
+Amendment of the Constitution of the United States and 3 U.S.C. §§ 15-18.
 The Attack at the U.S. Capitol on January 6, 2021
-
 5.
 
-The Capitol is secured 24 hours a day by United States Capitol Police ("Capitol
+The Capitol is secured 24 hours a day by United States Capitol Police (“Capitol
 
-Police"). The Capitol Police maintain permanent and temporary barriers to restrict access to the
-2
-
-Case 1:21-cr-00028-APM Document 127 Filed 03/31/21 Page 3 of 25
-
+Police”). The Capitol Police maintain permanent and temporary barriers to restrict access to the
 Capitol exterior, and only authorized individuals with appropriate identification are allowed inside
 the Capitol building.
 6.
 
 On January 6, 2021, at approximately 1:00 p.m., the Joint Session convened in the
 
-Capitol building to certify the Electoral College vote. Vice President Michael R. Pence, in his
-constitutional duty as President of the Senate, presided over the Joint Session.
+Capitol building for the Certification of the Electoral College vote. Vice President Michael R.
+Pence, in his constitutional duty as President of the Senate, presided over the Joint Session.
 7.
 
 A large crowd began to gather outside the Capitol perimeter as the Joint Session
 
 got underway. Crowd members eventually forced their way through, up, and over Capitol Police
-barricades and advanced to the building's exterior fa9ade. Capitol Police officers attempted to
+barricades and advanced to the building’s exterior façade. Capitol Police officers attempted to
 maintain order and stop the crowd from entering the Capitol building, to which the doors and
 windows were locked or otherwise secured. Nonetheless, shortly after 2:00 p.m., crowd members
 forced entry into the Capitol building by breaking windows, ramming open doors, and assaulting
 Capitol Police officers. Other crowd members encouraged and otherwise assisted the forced entry.
 The crowd was not lawfully authorized to enter or remain inside the Capitol, and no crowd member
 submitted to security screenings or weapons checks by Capitol Police or other security officials.
+
+3
+
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 4 of 38
+
 8.
 
 Shortly thereafter, at approximately 2:20 p.m., members of the House and Senate
 
-(including Vice President Pence)-who had withdrawn to separate chambers to resolve an
-objection-were evacuated from their respective chambers. The Joint Session was halted while
+(including Vice President Pence)—who had withdrawn to separate chambers to resolve an
+objection—were evacuated from their respective chambers. The Joint Session was halted while
 Capitol Police and other law-enforcement officers worked to restore order and clear the Capitol of
 the unlawful occupants.
 9.
@@ -136,133 +58,160 @@ Later that night, law enforcement regained control of the Capitol. At approximat
 
 8:00 p.m., the Joint Session reconvened, presided over by Vice President Pence, who had remained
 hidden within the Capitol building throughout these events.
-
-3
-
-Case 1:21-cr-00028-APM Document 127 Filed 03/31/21 Page 4 of 25
-
 10.
 
-In the course of these events, approximately 81 members of the Capitol Police and
+In the course of these events, over 100 members of law enforcement were assaulted.
 
-58 members of the Metropolitan Police Department were assaulted. The Capitol suffered millions
-of dollars in damage-including broken windows and doors, graffiti, and residue from pepper
-spray, tear gas, and fire extinguishers deployed both by crowd members who stormed the Capitol
-and by Capitol Police officers trying to restore order. Additionally, many media members were
-assaulted and had cameras and other news-gathering equipment destroyed.
+The Capitol suffered millions of dollars in damage—including broken windows and doors, graffiti,
+and residue from pepper spray, tear gas, and fire extinguishers deployed both by crowd members
+who stormed the Capitol and by Capitol Police officers trying to restore order. Additionally, many
+media members were assaulted and had cameras and other news-gathering equipment destroyed.
 The Oath Keepers Militia
 11.
 
-Law enforcement and news-media organizations observed that members of an
+Members and affiliates of an organization known as the Oath Keepers were among
 
-organization known as the Oath Keepers were among the individuals and groups who forcibly
-entered the Capitol on January 6, 2021. The Oath Keepers are a large but loosely organized
-collection of individuals, some of whom are associated with militias. Some members of the Oath
-Keepers believe that the federal government has been coopted by a cabal of elites actively trying
-to strip American citizens of their rights.
+the individuals and groups who forcibly entered the Capitol on January 6, 2021. The Oath Keepers
+are a large but loosely organized collection of individuals, some of whom are associated with
+militias. Some members of the Oath Keepers believe that the federal government has been coopted
+by a cabal of elites actively trying to strip American citizens of their rights. Though the Oath
+Keepers will accept anyone as members, they explicitly focus on recruiting current and former
+military, law enforcement, and first-responder personnel. The organization’s name alludes to the
+oath sworn by members of the military and police to defend the Constitution “from all enemies,
+foreign and domestic.” The Oath Keepers are led by PERSON ONE.
 
-Though the Oath Keepers will accept anyone as
+4
 
-members, they explicitly focus on recruiting current and former military, law enforcement, and
-first-responder personnel. The organization's name alludes to the oath sworn by members of the
-military and police to defend the Constitution "from all enemies, foreign and domestic." The Oath
-Keepers are led by PERSON ONE.
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 5 of 38
+
 12.
 
 On January 4, 2021, PERSON ONE posted an article to the Oath Keepers website
 
 encouraging Oath Keeper members and affiliates to go to Washington, D.C., for the events of
-January 5-6, 2021, stating: "It is CRITICAL that all patriots who can be in DC get to DC to stand
-tall in support of President Trump's fight to defeat the enemies foreign and domestic who are
+January 5-6, 2021, stating: “It is CRITICAL that all patriots who can be in DC get to DC to stand
+tall in support of President Trump’s fight to defeat the enemies foreign and domestic who are
 attempting a coup, through the massive vote fraud and related attacks on our Republic. We Oath
-Keepers are both honor-bound and eager to be there in strength to do our part."
-
-4
-
-Case 1:21-cr-00028-APM Document 127 Filed 03/31/21 Page 5 of 25
-
+Keepers are both honor-bound and eager to be there in strength to do our part.”
 13.
 
-PERSON ONE named PERSON TEN to be the leader of his group's operations in
+In his January 4 post, PERSON ONE also observed: “As we have done on all recent
+
+DC Ops, we will also have well armed and equipped QRF 1 teams on standby, outside DC, in the
+event of a worst case scenario, where the President calls us up as part of the militia to to assist him
+inside DC. We don’t expect a need for him to call on us for that at this time, but we stand ready if
+he does (and we also stand ready to answer the call to serve as militia anytime in the future, and
+anywhere in our nation, if he does invoke the Insurrection Act).”
+14.
+
+PERSON ONE named PERSON TEN to be the leader of his group’s operations in
 
 Washington, D.C., on January 6, 2021.
 Conspirators
-
-14.
-
-THOMAS CALDWELL is a 65-year-old resident of Clarke County, Virginia.
-
 15.
 
-DONOVAN CROWL is a 50-year-old resident of Champaign County, Ohio.
+THOMAS CALDWELL was a 65-year-old resident of Berryville, Virginia. 2
 
+CALDWELL used the monikers “CAG,” “Spy,” and “CAG Spy.”
 16.
 
-JESSICA WATKINS is a 38-year-old resident of Champaign County, Ohio.
+DONOVAN CROWL was a 50-year-old resident of Woodstock, Ohio.
 
 17.
 
-SANDRA PARKER is a 62-year-old resident of Warren County, Ohio, and the
+JESSICA WATKINS was a 38-year-old resident of Woodstock, Ohio.
 
-wife of BENNIE PARKER.
 18.
 
-BENNIE PARKER is a 70-year-old resident of Warren County, Ohio, and the
+SANDRA PARKER was a 60-year-old resident of Morrow, Ohio, and the wife of
 
-husband of SANDRA PARKER.
-19.
+BENNIE PARKER.
 
-GRAYDON YOUNG is a 54-year-old resident of Englewood, Florida, and the
+1
 
-brother of LAURA STEELE.
-20.
+Based on the investigation, “QRF” appears to refer to “quick reaction force.”
 
-LAURA STEELE is a 52-year-old resident of Thomasville, North Carolina, and the
+2
 
-sister of GRAYDON YOUNG.
-21.
-
-KELLY MEGGS is a 52-year-old resident of Dunnellon, Florida, and the husband
-
-of CONNIE MEGGS.
-22.
-
-CONNIE MEGGS is a 59-year-old resident of Dunnellon, Florida, and the wife of
-
-KELLY MEGGS.
-23.
-
-KENNETH HARRELSON is a 40-year-old resident of Titusville, Florida.
-
-24.
-
-ROBERTO MINUTA is a 36-year-old resident of Prosper, Texas.
-
-25.
-
-JOSHUA JAMES is a 33-year-old resident of Arab, Alabama.
-
+The ages and residences listed herein are as of January 6, 2021.
 5
 
-Case 1:21-cr-00028-APM Document 127 Filed 03/31/21 Page 6 of 25
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 6 of 38
 
-COUNT ONE
-(Conspiracy-18 U.S.C. § 371)
+19.
+
+BENNIE PARKER was a 70-year-old resident of Morrow, Ohio, and the husband
+
+of SANDRA PARKER.
+20.
+
+GRAYDON YOUNG was a 54-year-old resident of Englewood, Florida, and the
+
+brother of LAURA STEELE. YOUNG used the moniker “GenXPatriot.”
+21.
+
+LAURA STEELE was a 52-year-old resident of Thomasville, North Carolina, and
+
+the sister of YOUNG.
+22.
+
+KELLY MEGGS was a 52-year-old resident of Dunnellon, Florida, and the
+
+husband of CONNIE MEGGS. KELLY MEGGS used the moniker “Gator 1” or “OK Gator 1.”
+23.
+
+CONNIE MEGGS was a 59-year-old resident of Dunnellon, Florida, and the wife
+
+of KELLY MEGGS.
+24.
+
+KENNETH HARRELSON was a 40-year-old resident of Titusville, Florida.
+
+HARRELSON used the moniker “Gator 6.”
+25.
+
+ROBERTO MINUTA was a 36-year-old resident of Prosper, Texas.
 
 26.
 
-The introductory allegations set forth in paragraphs 1 through 25 are re-alleged and
+JOSHUA JAMES was a 33-year-old resident of Arab, Alabama. JAMES used the
+
+moniker “Hydro.”
+27.
+
+28.
+
+JOSEPH HACKETT was a 50-year-old resident of Sarasota, Florida. HACKETT
+
+used the moniker “Ahab.”
+29.
+
+JASON DOLAN was a 44-year-old resident of Wellington, Florida. DOLAN used
+
+the moniker “Turmoil.”
+30.
+
+WILLIAM ISAACS was a 21-year-old resident of Kissimmee, Florida.
+
+6
+
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 7 of 38
+
+COUNT ONE
+(Conspiracy—18 U.S.C. § 371)
+31.
+
+The introductory allegations set forth in paragraphs 1 through 30 are re-alleged and
 
 incorporated by reference as though set forth herein.
 The Conspiracy
-
-27.
+32.
 
 From at least as early as November 3, 2020, through January 6, 2021, in the District
 
 of Columbia and elsewhere, the defendants,
 THOMAS CALDWELL,
-DO NOVAN CROWL,
+DONOVAN CROWL,
 JESSICA WATKINS,
 SANDRA PARKER,
 BENNIE PARKER,
@@ -271,37 +220,38 @@ LAURA STEELE,
 KELLY MEGGS,
 CONNIE MEGGS,
 KENNETH HARRELSON,
-ROBERTO MINUTA, and
+ROBERTO MINUTA,
 JOSHUA JAMES,
-
+,
+JOSEPH HACKETT,
+JASON DOLAN, and
+WILLIAM ISAACS,
 did knowingly combine, conspire, confederate, and agree with each other and others known and
 unknown, to commit an offense against the United States, namely, to corruptly obstruct, influence,
-and impede an official proceeding, that is, Congress's certification of the Electoral College vote,
-and to attempt to do so, in violation of Title 18, United States Code, Section 1512(c)(2).
-Purpose of the Conspfracy
+and impede an official proceeding, that is, the Certification of the Electoral College vote, in
+violation of Title 18, United States Code, Section 1512(c)(2).
+Purpose of the Conspiracy
+33.
 
-28.
+The purpose of the conspiracy was to stop, delay, and hinder the Certification of
 
-The purpose of the conspiracy was to stop, delay, and hinder Congress's
+the Electoral College vote.
 
-certification of the Electoral College vote.
+7
+
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 8 of 38
+
 Manner and Means
-
-29.
+34.
 
 CALDWELL, CROWL, WATKINS, SANDRA PARKER, BENNIE PARKER,
 
-YOUNG, STEELE, KELLY MEGGS, CONNIE MEGGS, HARRELSON, MINUTA, and
-
-6
-
-Case 1:21-cr-00028-APM Document 127 Filed 03/31/21 Page 7 of 25
-
-JAMES, with others known and unknown, carried out the conspiracy through the following
-manner and means, among others, by:
-a. Agreeing to participate in and planning an operation to interfere with the official
-Congressional proceeding to certify the vote of the Electoral College of the 2020
-U.S. Presidential Election on January 6, 2021 (the "January 6 operation");
+YOUNG, STEELE, KELLY MEGGS, CONNIE MEGGS, HARRELSON, MINUTA, JAMES,
+HACKETT, DOLAN, and ISAACS, with others known and unknown, carried out the
+conspiracy through the following manner and means, among others, by:
+a. Agreeing to participate in and planning an operation to interfere with the
+Certification of the Electoral College vote on January 6, 2021 (the “January 6
+operation”);
 b. Attending or scheduling trainings to teach and learn paramilitary combat tactics in
 advance of the January 6 operation;
 c. Using websites, social media, text messaging, and messaging applications to recruit
@@ -310,183 +260,222 @@ d. Coordinating in advance with others, including members of the Oath Keepers fr
 other regions, and joining forces with these individuals and groups to further the
 January 6 operation;
 e. Traveling to Washington, D.C., for the January 6 operation;
-f.
-
-Bringing and contributing paramilitary gear and supplies-including camouflaged
-combat uniforms, tactical vests with plates, helmets, eye protection, and radio
-equipment-for the January 6 operation;
-
-g. Traveling into Washington, D.C., on January 6, 2021, while wearing clothes with
-the Oath Keepers insignia;
-h. Changing into paramilitary gear-including helmets-before participating in the
+f. Bringing and contributing paramilitary gear and supplies—including firearms,
+camouflaged combat uniforms, tactical vests with plates, helmets, eye protection,
+and radio equipment—for the January 6 operation;
+g. Donning clothes with the Oath Keepers insignia for the January 6 operation;
+h. Changing into paramilitary gear—including helmets—before participating in the
 January 6 operation;
-1.
 
-Moving together in a military "stack" formation while utilizing hand signals to
+8
+
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 9 of 38
+
+i. Moving together in a military “stack” formation while utilizing hand signals to
 maintain communication and coordination while advancing toward the Capitol as
 part of the January 6 operation;
-
-7
-
-Case 1:21-cr-00028-APM Document 127 Filed 03/31/21 Page 8 of 25
-
-J.
-
-Forcibly storming past exterior barricades, Capitol Police, and other law
-enforcement officers, and entering the Capitol complex in executing the January 6
-operation; and
-
-k. Using a walkie-talkie-like application, and creating a channel on it named "Stop the
-Steal J6," to develop plans and later communicate during the January 6 operation.
-
+j. Forcibly storming past exterior barricades, Capitol Police, and other law
+enforcement officers, and entering the Capitol in executing the January 6 operation;
+and
+k. Using secure and encrypted communications applications like Signal 3 and Zello 4
+to develop plans and later communicate during the January 6 operation.
 Overt Acts
 Planning for January 6, 2021
-30.
+35.
 
-On November 9, 2020, WATKINS, the self-described "C.O. [Commanding
+At a GoToMeeting 5 held on November 9, 2020, PERSON ONE told those attending
 
-Officer] of the Ohio State Regular Militia," sent text messages to a number of individuals who had
-expressed interest in joining the Ohio State Regular Militia.
+the meeting, “We’re going to defend the president, the duly elected president, and we call on him
+to do what needs to be done to save our country. Because if you don’t guys, you’re going to be in
+a bloody, bloody civil war, and a bloody – you can call it an insurrection or you can call it a war
+or fight.” PERSON ONE called upon his followers to go to Washington, D.C., to let the President
+know “that the people are behind him.” PERSON ONE told his followers they needed to be
+prepared to fight Antifa, which he characterized as a group of individuals with whom “if the fight
+comes, let the fight come. Let Antifa – if they go kinetic on us, then we’ll go kinetic back on them.
+I’m willing to sacrifice myself for that. Let the fight start there. That will give President Trump
+3
 
-In these messages, WATKINS
+Signal is an encrypted messaging service.
 
-mentioned, among other things, that the militia had a week-long "Basic Training class coming up
-in the beginning of January," and WATKINS told one recruit, "I need you fighting fit by
-innaugeration." WATKINS told another individual, "It's a military style basic, here in Ohio, with
-a Marine Drill Sergeant running it. An hour north of Columbus Ohio[.]"
-31.
+4
 
-On November 9, 2020, WATKINS asked a recruit ifhe could "download an App
+Zello is an application that emulates push-to-talk walkie-talkies over cellular telephone
+networks. Zello can be used on electronic communication devices, like cellular telephones and
+two-way radios.
+5
 
-called Zello" 1 and stated, "We all use Zello though for operations."
-32.
+GoToMeeting is an online meeting site that allows users to host conference calls and
+video conferences via the Internet in real time.
+9
+
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 10 of 38
+
+what he needs, frankly. If things go kinetic, good. If they throw bombs at us and shoot us, great,
+because that brings the president his reason and rationale for dropping the Insurrection Act.”
+PERSON ONE continued, “I do want some Oath Keepers to stay on the outside, and to stay fully
+armed and prepared to go in armed, if they have to . . . . So our posture’s gonna be that we’re
+posted outside of DC, um, awaiting the President’s orders. . . . We hope he will give us the orders.
+We want him to declare an insurrection, and to call us up as the militia.” WATKINS, KELLY
+MEGGS, HARRELSON, HACKETT, PERSON THREE, PERSON TEN, and others known and
+unknown attended this GoToMeeting. After PERSON ONE finished speaking, WATKINS and
+KELLY MEGGS asked questions and made comments about what types of weapons were legal in
+the District of Columbia.
+36.
+
+On November 9, 2020, WATKINS, the self-described “C.O. [Commanding
+
+Officer] of the Ohio State Regular Militia,” sent text messages to recruit a number of individuals
+who had expressed interest in joining the Ohio State Regular Militia.
+
+In these messages,
+
+WATKINS mentioned, among other things, that the militia had a week-long “Basic Training class
+coming up in the beginning of January,” and told one recruit, “I need you fighting fit by
+innaugeration.” In describing the program to PERSON TEN, WATKINS said, “It’s a military
+style basic, here in Ohio, with a Marine Drill Sergeant running it. An hour north of Columbus
+Ohio[.]”
+37.
+
+On November 9, 2020, WATKINS asked a recruit if he could “download an App
+
+called Zello” and stated, “We all use Zello though for operations.”
+38.
 
 On November 17, 2020, when a recruit asked WATKINS for her predictions for
 
 2021, WATKINS replied, among other statements:
-I can't predict. I don't underestimate the resolve of the Deep State. Biden may still
-gyet be our President. Ifhe is, our way oflife as we know it is over. Our Republic
+
+10
+
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 11 of 38
+
+I can’t predict. I don’t underestimate the resolve of the Deep State. Biden may still
+yet be our President. If he is, our way of life as we know it is over. Our Republic
 would be over. Then it is our duty as Americans to fight, kill and die for our rights.
 and:
+[I]f Biden get the steal, none of us have a chance in my mind. We already have our
+neck in the noose. They just haven’t kicked the chair yet.
+39.
 
-1
+On November 23, 2020, CALDWELL sent a text message to WATKINS stating:
 
-Zello is an application that emulates push-to-talk walkie-talkies over cellular telephone networks. Zello
-can be used on electronic communication devices, like cellular telephones and two-way radios.
-
-8
-
-Case 1:21-cr-00028-APM Document 127 Filed 03/31/21 Page 9 of 25
-
-[I]fBiden get the steal, none ofus have a chance in my mind. We already have our
-neck in the noose. They just haven't kicked the chair yet.
-33.
-
-On Nove~ber 23, 2020, CALDWELL sent a text message to WATKINS stating:
-
-Hi, CAP! Wanted to tell you it was great to have you here in Virginia. Don't know
+Hi, CAP! Wanted to tell you it was great to have you here in Virginia. Don’t know
 what [PERSON ONE] is cooking up but I am hearing rumblings of another Maga
-March 12 December. 2 I don't know what will happen but like you I am very
+March 12 December. 6 I don’t know what will happen but like you I am very
 worried about the future of our country. Once lawyers get involved all of us normal
 people get screwed. I believe we will have to get violent to stop this, especially the
 antifa maggots who are sure to come out en masse even if we get the Prez for 4
 more years. Stay sharp and we will meet again. You are my kinda person and we
 may have to fight next time. I have my own gear, I like to be ON TIME and go
 where the enemy is, especially after dark. Keep the faith! Spy.
-34.
+40.
 
-On December 3, 2020, YOUNG emailed the Florida chapter of the Oath Keepers
+On December 3, 2020, YOUNG emailed the Florida chapter of the Oath Keepers a
 
-with a membership application and wrote, "looking to get involved in helping .... "
-35.
+membership application and wrote, “looking to get involved in helping….”
+41.
 
-On December 19, 2020, YOUNG wrote to a Facebook group: "Please check out
+On December 19, 2020, HACKETT sent an email to YOUNG with a subject line
+
+“test.” The body of the email stated: “I believe we only need to do this when important info is at
+hand like locations, identities, Ops planning.” The email had a photo attached; the photo showed
+cursive handwriting on a lined notepad that stated: “Secure Comms Test. Good talk tonight guys!
+Rally Point in Northern Port Charlotte at Grays if transportation is possible. All proton mails.7
+
+6
+
+An event colloquially referred to as the “Million MAGA March” occurred in Washington,
+D.C., on November 14, 2020. A similar event occurred in Washington, D.C., on December 12,
+2020.
+7
+
+Based on the investigation, “proton mails” appears to refer to the company “ProtonMail,”
+which offers encrypted email services.
+11
+
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 12 of 38
+
+May consider an RP 8 that won’t burn anyone. Comms – work in progress. Messages in cursive
+to eliminate digital reads. Plans for recruitment and meetings.”
+42.
+
+On December 19, 2020, YOUNG wrote to a Facebook group: “Please check out
 
 Oath Keepers as a means to get more involved. Recruiting is under way. DM me if you want
-more info."
-36.
+more info.”
+43.
 
 On December 22, 2020, YOUNG made plans to fly from Florida to North Carolina
 
 on January 4, 2021, with a return trip on January 8, 2021.
-37.
+44.
 
 On December 22, 2020, KELLY MEGGS wrote a series of messages on Facebook
 
 to another individual that read in part:
-a. "Trump said It's gonna be wild!!!!!!!
+a. “Trump said It’s gonna be wild!!!!!!!
 
-It's gonna be wild!!!!!!! He wants us to
+It’s gonna be wild!!!!!!! He wants us to
 
-make it WILD that's what he's saying. He called us all to the Capitol and wants us
-to make it wild!!! Sir Yes Sir!!! Gentlemen we are heading to DC pack your shit!!"
-b. "Nice, we will have at least 50-100 OK3 there."
-
-2
-
-An event colloquially referred to as the "Million MAGA March" occurred in Washington, D.C., on
-November 14, 2020. A similar event occurred in Washington, D.C., on December 12, 2020.
-3
-
-Based on the investigation, OK appears to refer to "Oath Keepers."
-
-9
-
-Case 1:21-cr-00028-APM Document 127 Filed 03/31/21 Page 10 of 25
-
-38.
+make it WILD that’s what he’s saying. He called us all to the Capitol and wants us
+to make it wild!!! Sir Yes Sir!!! Gentlemen we are heading to DC pack your shit!!”
+b. “Nice, we will have at least 50-100 OK 9 there.”
+45.
 
 On December 25, 2020, KELLY MEGGS wrote a message on Facebook that said
 
-in relevant part: "I was named State lead of Florida today."
-39.
+in relevant part: “I was named State lead of Florida today.”
+46.
 
 On December 25, 2020, KELLY MEGGS wrote a message on Facebook that said
 
-in relevant part: "We are all staying in DC near the Capitol we are at the Hilton garden inn but I
-think it's full. De is no guns. So mace and gas masks, some batons. If you have armor that's
-good."
-40.
+in relevant part: “We are all staying in DC near the Capitol we are at the Hilton garden inn but I
+think it’s full. Dc is no guns. So mace and gas masks, some batons. If you have armor that’s
+good.”
+47.
 
 On December 26, 2020, YOUNG wrote an email to a Florida company that
 
-conducts training on firearms and combat. YOUNG wrote, in part, "I trained with you not long
+conducts training on firearms and combat. YOUNG wrote, in part, “I trained with you not long
+
+8
+
+Based on the investigation, “RP” appears to refer to “rally point.”
+
+9
+
+Based on the investigation, “OK” appears to refer to “Oath Keepers.”
+12
+
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 13 of 38
+
 ago. Since then I have joined Oath Keepers. I recommended your training to the team. To that
-effect, four ofus would like to train with you, specifically in your UTM 4 rifle class."
-41.
+effect, four of us would like to train with you, specifically in your UTM 10 rifle class.”
+48.
 
 On December 26 and 27, 2020, WATKINS and BENNIE PARKER exchanged text
 
 messages relating to preparations for the trip to Washington, D.C., on January 6, 2021. BENNIE
-PARKER also texted WATKINS, "I may have to see what it takes to join your militia, ours is
-about gone."
-42.
+PARKER also texted WATKINS, “I may have to see what it takes to join your militia, ours is
+about gone.”
+49.
 
 On December 29, 2020, WATKINS sent text messages to CROWL sharing her
 
 plans to go to Washington, D.C., for the events of January 6, 2021.
-43.
+50.
 
 On December 29 and 30, 2020, WATKINS and BENNIE PARKER exchanged text
 
 messages in which they discussed Oath Keeper membership and meeting in advance to prepare for
 the trip to Washington, D.C., on January 6, 2021.
-44.
+51.
 
-On December 30, 2020, CALDWELL wrote in a Facebook post: "THIS IS OUR
+On December 30, 2020, CALDWELL wrote in a Facebook post: “THIS IS OUR
 
 CALL TO ACTION, FREINDS! SEE YOU ON THE 6TH IN WASHINGTON, D.C. ALONG
-WITH 2 MILLION OTHER LIKE-MINDED PATRIOTS."
-
-4
-
-Based on the investigation, UTM appears to refer to "Ultimate Training Munitions."
-
-10
-
-Case 1:21-cr-00028-APM Document 127 Filed 03/31/21 Page 11 of 25
-
-45.
+WITH 2 MILLION OTHER LIKE-MINDED PATRIOTS.”
+52.
 
 On December 30, 2020, WATKINS and CALDWELL exchanged the following
 
@@ -497,22 +486,31 @@ Looks like we are greenlight to come to DC on the 6th. The Rally
 Point still at your place?
 
 CALDWELL: Not that I am aware. Have been contacted by NO ONE. Typical
-[PERSON ONE]. Here's the rub: [PERSON TWO] and I will be in
+[PERSON ONE]. Here’s the rub: [PERSON TWO] and I will be in
 a hotel within striking distance of the city starting on the 4th so we
-won't even BE here. There will be some stuff going on during the
+won’t even BE here. There will be some stuff going on during the
 5th and we want to be a part of that whenever it shakes out. Also
 we want to be in D.C. very early on the 6th, hence closer/virtually
 no commute time.
+
+10
+
+Based on the investigation, “UTM” appears to refer to “Ultimate Training Munitions.”
+13
+
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 14 of 38
+
 WATKINS:
 
 We planned on arriving on the 5th. We want to be in DC by 9am on
 the 6th. I will reach out to [PERSON THREE], and see if NC boys
-are coming. If [PERSON ONE] isn't making plans, I'll take charge
+are coming. If [PERSON ONE] isn’t making plans, I’ll take charge
 myself, and get the ball rolling. I think the Metro is smarter than
 convoy/parking issues. Do you want us to stage ourselves vehicles
-elsewhere, seeing how you're going to be gone? We can go to a
-KOA Campground or something ...
+elsewhere, seeing how you’re going to be gone? We can go to a
+KOA Campground or something...
 
+...
 CALDWELL (about two hours later):
 Talked to [PERSON THREE]. At least one full bus 40+ people
 coming from N.C. Another group (unclear if Mississippi guys) also
@@ -520,145 +518,183 @@ a bus. Busses have their own lane on the 14th street bridge so they
 will be able to get in and out. [PERSON THREE] is driving plus 1
 and arriving nite before. As we speak he is trying to book a room at
 Comfort Inn Ballston/Arlington because of its close-in location and
-easy access to downtown because he feels 1) he's too broken down
+easy access to downtown because he feels 1) he’s too broken down
 to be on the ground all day and 2) he is committed to being the quick
-reaction force anfbringing the tools if something goes to hell. That
-way the boys don't have to try to schlep weps on the bus. He'll
+reaction force anf bringing the tools if something goes to hell. That
+way the boys don’t have to try to schlep weps on the bus. He’ll
 bring them in his truck day before. Just got a text from him he WAS
 able to book a room in that hotel I recommended which is on Glebe
 Road in Arlington. However it goes it will be great to see you again!
 I sure hope your arm is getting better!
-46.
+53.
 
-On December 31, 2020, CALDWELL replied to a Facebook comment, writing, "It
+On December 31, 2020, CALDWELL replied to a Facebook comment, writing, “It
 
 begins for real Jan 5 and 6 on Washington D.C. when we mobilize in the streets. Let them try to
-
-11
-
-Case 1:21-cr-00028-APM Document 127 Filed 03/31/21 Page 12 of 25
-
 certify some crud on capitol hill with a million or more patriots in the streets. This kettle is set to
-boil..."
-47.
+boil…”
+54.
 
-On December 31, 2020, when invited to a "leadership only'' conference call on an
+On December 31, 2020, when invited to a “leadership only” conference call on
 
-encrypted messaging service called Signal for the "DC op," WATKINS said she would try to make
-it if her work obligations permitted.
-48.
+Signal for the “DC op,” WATKINS said she would try to make it if her work obligations permitted.
+55.
+
+At least as early as December 31, 2020, WATKINS, KELLY MEGGS, JAMES,
+
+MINUTA, PERSON ONE, PERSON THREE, PERSON TEN, and others known and unknown
+joined an invitation-only encrypted Signal group message titled “DC OP: Jan 6 21” (hereinafter
+the “Leadership Signal Chat”).
+
+14
+
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 15 of 38
+
+56.
 
 On December 31, 2020, KELLY MEGGS wrote a series of messages to another
 
-person on Facebook that said, "You guys Gonna carry?" and "Ok we aren't either, we have a heavy
-QRF 5 10 Min out though."
-49.
+person on Facebook that said, “You guys Gonna carry?” and “Ok we aren’t either, we have a heavy
+QRF 10 Min out though.”
+57.
 
-On December 31, 2020, KELLY MEGGS (under the name "gator 1") and JAMES
+On December 31, 2020, another individual contacted JAMES via Signal and stated:
 
-(under the name "hydro - al") attended a 4-participant Go To Meeting6 entitled, "SE leaders de
-1/6/21 op call." KELLY MEGGS was the organizer of the meeting.
-50.
+“i have friends not far from DC with a lot of weapons and ammo if you get un trouble i ca.
+Coordinate help.” JAMES responded, “That might be helpful, but we have a shitload of QRF on
+standby with an arsenal.”
+58.
 
-On December 31, 2020, KELLY MEGGS (using his phone number as a participant
+On December 31, 2020, KELLY MEGGS and JAMES attended a 4-participant
 
-name) and HARRELSON (under the name "gator 6") attended a Go To Meeting entitled, "florida
-de op planning chat." HARRELSON was the organizer of the meeting.
-51.
+GoToMeeting titled “SE leaders dc 1/6/21 op call.” KELLY MEGGS was the organizer of the
+meeting.
+59.
 
-On January 1, 2021, CALDWELL replied to a Facebook comment, writing, "I
+On December 31, 2020, KELLY MEGGS and HARRELSON attended a
+
+GoToMeeting titled “florida dc op planning chat.” HARRELSON was the organizer of the
+meeting, which had about 15 participants.
+60.
+
+On December 31, 2020, JAMES messaged PERSON NINETEEN and asked, “Do
+
+we have a farm location for weapons?” PERSON NINETEEN responded, “Not that I am aware
+of yet. If nothing else, my hotel is in VA and has secured underground parking. About 15-20
+minutes outside DC, less if you really don’t care about speed limits… would be great if we had
+someone with an enclosed truck type vehicle and had a quick response unit just outside the city.”
+JAMES replied, “I agree.”
+61.
+
+On January 1, 2021, PERSON FOURTEEN messaged JAMES on Signal and
+
+asked, “Hey we told to bring guns and maybe stage them in VA?? But you are showing hotels in
+DC for Alabama. Are we bring guns or no if so how will that work?” JAMES responded, “Were
+working on a Farm location Some are bringing long rifles some sidearms… I’m bringing sidearm.”
+
+15
+
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 16 of 38
+
+62.
+
+On January 1, 2021, CALDWELL replied to a Facebook comment, writing, “I
 
 accept that assignment! I swore to support and defend the Constitution of the United States against
 all enemies foreign and domestic. I did the former, I have done the latter peacefully but they have
 morphed into pure evil even blatantly rigging an election and paying off the political caste. We
-must smite them now and drive them down."
-
-5
-
-Based on the investigation, QRF appears to refer to a "quick reaction force," as used in paragraph 43 .
-
-6
-
-Go To Meeting is an online meeting site that allows users to host conference calls and video conferences
-via the Internet in real time.
-
-12
-
-Case 1:21-cr-00028-APM Document 127 Filed 03/31/21 Page 13 of 25
-
-52.
+must smite them now and drive them down.”
+63.
 
 On January 1, 2021, CROWL sent CALDWELL a Facebook message stating,
 
-"Happy New year, to you Sir!!
+“Happy New year, to you Sir!!
 
-Guess I'll be seeing you soon.
+Guess I’ll be seeing you soon.
 
 Will probably call you
 
-tomorrow ... mainly because: .. I like to know wtf plan is. You are the man Commander."
-53.
+tomorrow…mainly because…I like to know wtf plan is. You are the man Commander.”
+64.
 
-On January 1, 2021, CALDWELL wrote to CROWL, "Check with Cap.
+On January 1, 2021, CALDWELL wrote to CROWL, “Check with Cap.
 
 I
 
-recommended the following hotel to her which STILL has rooms (unbelieveble)." CALDWELL
+recommended the following hotel to her which STILL has rooms (unbelieveble).” CALDWELL
 then sent a link to the Comfort Inn Ballston, the same hotel that he recommended to others on
-January 1. CALDWELL continued, "[PERSON TWO] and I are setting up shop there. [PERSON
+January 1. CALDWELL continued, “[PERSON TWO] and I are setting up shop there. [PERSON
 THREE] has a room and is bringing someone. He will be the quick reaction force. Its going to be
 cold. We need a place to spend the night before minimum. [PERSON ONE] never contacted me
 so [PERSON TWO] and I are going our way. I will probably do pre-strike on the 5th though there
 are things going on that day. Maybe can do some night hunting. Oathkeeper friends from North
 Carolina are taking commercial buses up early in the morning on the 6th and back same night.
-[PERSON THREE] will have the goodies in case things go bad and we need to get heavy."
-54.
+[PERSON THREE] will have the goodies in case things go bad and we need to get heavy.”
+65.
 
 On January 1, 2021, CROWL and WATKINS made plans to travel by car to
 
 Washington, D.C., to attend the events of January 5-6, 2021.
-55.
+66.
 
 Beginning on January 1, and continuing into January 2, 2021, CALDWELL and
 
 CROWL exchanged messages about the hotel where they planned to stay in Arlington, Virginia,
-and CALDWELL told CROWL: "This is a good location and would allow us to hunt at night if
-we wanted to. I don't know if [PERSON ONE] has even gotten out his call to arms but its a little
-friggin late. This is one we are doing on our own. We will link up with the north carolina crew."
-56.
+and CALDWELL told CROWL: “This is a good location and would allow us to hunt at night if
 
-On January 3, 2021, STEELE emailed the Florida chapter of the Oath Keepers with
+16
 
-a membership application and wrote, "My brother, Graydon Young told me to submit my
-application this route to expedite the process." Later in the day, STEELE emailed KELLY
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 17 of 38
 
-13
+we wanted to. I don’t know if [PERSON ONE] has even gotten out his call to arms but its a little
+friggin late. This is one we are doing on our own. We will link up with the north carolina crew.”
+67.
 
-Case 1:21-cr-00028-APM Document 127 Filed 03/31/21 Page 14 of 25
+On January 2, 2021, PERSON FIFTEEN messaged JAMES on Signal and asked,
 
-MEGGS and wrote, "My brother, Graydon Young told me to send the application to you so I can
-be verified for the Events this coming Tuesday and Wednesday." The following day, STEELE
-sent an email to an Oath Keepers address, copying both YOUNG and KELLY MEGGS, attaching
-her Florida Oath Keepers membership application and vetting form, and writing, "I was just
-requested to send my documents to this email."
-57.
+“So, I guess I am taking full gear less weapons? Just reading through all the posts. Would rather
+have it and not need it.” JAMES responded, “Yeah full gear... QRF will have weapons Just leave
+em home.”
+68.
+
+On the evening of January 2, 2021, at about 5:43 p.m., KELLY MEGGS posted a
+
+map of Washington, D.C., in the Leadership Signal Chat, along with the message, “1 if by land[,]
+North side of Lincoln Memorial[,] 2 if by sea[,] Corner of west basin and Ohio is a water transport
+landing !!” KELLY MEGGS continued, “QRF rally points[.] Water of the bridges get closed.”
+69.
+
+On January 3, 2021, STEELE emailed the Florida chapter of the Oath Keepers a
+
+membership application and wrote, “My brother, Graydon Young told me to submit my application
+this route to expedite the process.” Later in the day, STEELE emailed KELLY MEGGS and wrote,
+“My brother, Graydon Young told me to send the application to you so I can be verified for the
+Events this coming Tuesday and Wednesday.” The following day, STEELE sent an email to an
+Oath Keepers address, copying both YOUNG and KELLY MEGGS, attaching her Florida Oath
+Keepers membership application and vetting form, and writing, “I was just requested to send my
+documents to this email.”
+70.
 
 On January 3, 2021, WATKINS sent CROWL a Facebook message stating,
 
-"Running a bit behind. I'll txt when I'm back at the bar. Getting supplies for DC."
-58.
+“Running a bit behind. I’ll txt when I’m back at the bar. Getting supplies for DC.”
+71.
 
 On January 3, 2021, WATKINS and BENNIE PARKER discussed the uniforms,
 
 gear, and weapons they would wear and bring on January 6, 2021:
-
-59.
-
 WATKINS to BENNIE PARKER:
+
+17
 
 We are not bringing firearms. QRF
 will be our Law Enforcement
+
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 18 of 38
+
 members of Oathkeepers.
+
+72.
 
 BENNIE PARKER to WATKINS:
 
@@ -667,408 +703,539 @@ Good to know.
 WATKINS to BENNIE PARKER:
 
 Pack Khaki/Tan pants. Weapons are
-Sorry for the
-ok now as well.
+ok now as well. Sorry for the
 confusion. We are packing the car
-and heading yo]ur way shortly
+and heading your way shortly
 
 BENNIE PARKER to WATKINS:
 
-We don't have any khakis We have
-jeans and our b d u's 7 So I can bring
+We don’t have any khakis We have
+jeans and our b d u’s 11 So I can bring
 my gun?
 
-On January 3, 2021, KELLY MEGGS (under the name "gator 1") and
+On January 3, 2021, KELLY MEGGS and HARRELSON served as two of the
 
-HARRELSON (under the name "gator 6") served as two of the three "organizers" of an 18participant online meeting called "de planning call."
-60.
+three “organizers” of an 18-participant GoToMeeting titled “dc planning call.”
+73.
+
+At least as early as January 3, 2021, WATKINS, KELLY MEGGS, YOUNG,
+
+HARRELSON, HACKETT, DOLAN, ISAACS, and others known and unknown joined an
+invitation-only encrypted Signal group message titled “OK FL DC OP Jan 6” (hereinafter the
+“Florida Signal Chat”).
+74.
+
+On January 3, 2021, KELLY MEGGS added HARRELSON to the Leadership
+
+Signal Chat, and wrote that HARRELSON would serve as the “Ground Team lead in Florida.”
+75.
+
+On January 4, 2021, CALDWELL emailed PERSON THREE several maps along
+
+with the message, “These maps walk you from the hotel into D.C. and east toward the target area
+on multiple roads running west to east including M street and P street, two of my favorites . . . .”
+76.
+
+11
+
+Based on the investigation, “B.D.U.” appears to be a military reference to the Battle
+Dress Uniform, which is a camouflaged combat uniform.
+18
+
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 19 of 38
+
+77.
+
+Travel to Washington, D.C., for the January 6 Operation
+78.
+
+On January 4, 2021, KELLY MEGGS wrote in the Florida Signal Chat, “Rally 3
+
+pm if possible and need location DM but only those who will caravan.”
+79.
+
+On January 4, 2021, HARRELSON and DOLAN departed Florida together in a
+
+vehicle rented by DOLAN and traveled to the Washington, D.C., metropolitan area.
+80.
 
 On January 4, 2021, YOUNG took a flight from Sarasota, Florida, to Greensboro,
 
 North Carolina.
-
-7
-
-Based on the investigation, "B.D.U." appears to be a military reference to the Battle Dress Uniform, which
-is a camouflaged combat uniform.
-
-14
-
-Case 1:21-cr-00028-APM Document 127 Filed 03/31/21 Page 15 of 25
-
-61.
+81.
 
 On January 4, 2021, CROWL, WATKINS, SANDRA PARKER, and BENNIE
 
-PARKER departed Ohio together and traveled to the Washington metropolitan area.
-62.
+PARKER departed Ohio together and traveled to Northern Virginia, where they spent the night.
+82.
 
 On January 4, 2021, PERSON TEN checked into the Hilton Garden Inn in Vienna,
 
-Virginia. The room was reserved and paid for using a credit card in PERSON ONE's name.
-63.
+Virginia. The room was reserved and paid for using a credit card in PERSON ONE’s name.
+83.
+
+On January 4, 2021, WATKINS wrote in the Florida Signal Chat, “Where can we
+
+drop off weapons to the QRF team? I’d like to have the weapons secured prior to the Op
+tomorrow.”
+84.
+
+On the morning of January 5, 2021, HARRELSON asked in the Florida Signal Chat
+
+for the location of the “QRF hotel,” and KELLY MEGGS responded by asking for a direct
+message.
+
+19
+
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 20 of 38
+
+85.
 
 On January 5, 2021, PERSON ONE and MINUTA separately traveled to the
 
-Washington metropolitan area and checked into the Hilton Garden Inn in Vienna, Virginia.
-64.
+Washington, D.C., metropolitan area and checked into the Hilton Garden Inn in Vienna, Virginia.
+86.
 
 On January 5, 2021, YOUNG and STEELE departed North Carolina with others
 
-known and unknown and traveled to the Washington metropolitan area and checked into the
+known and unknown and traveled to the Washington D.C., metropolitan area and checked into the
 Holiday Inn in Springfield, Virginia.
-65.
+87.
 
 CALDWELL paid for a room for two people at the Comfort Inn Ballston from
 
 January 5-7, 2021.
-66.
+88.
 
-WATKINS paid for a room for two people at the Comfort Inn Ballston-the hotel
+WATKINS paid for a room for two people at the Comfort Inn Ballston—the hotel
 
-recommended by CALDWELL-from January 5-7, 2021, and reserved under the name "Jessica
-Wagkins."
-67.
+recommended by CALDWELL—from January 5-7, 2021, and reserved it under the name “Jessica
+Wagkins.”
+89.
 
 SANDRA PARKER paid for a room for two people at the Comfort Inn Ballston
 
 from January 5-7, 2021.
-68.
+90.
 
 KELLY MEGGS paid for two rooms, each for two people, at the Comfort Inn
 
 Ballston from January 5-6, 2021. The rooms were reserved under the name of PERSON THREE.
-69.
-
-PERSON THREE paid for one room at the Comfort Inn Ballston from January 5-
-
-6, 2021.
-70.
+91.
 
 KELLY MEGGS also booked two rooms at the Hilton Garden Inn in Washington,
 
 D.C., from January 5-7, 2021. KELLY MEGGS paid for both of the rooms, using two different
 credit cards.
-
-15
-
-Case 1:21-cr-00028-APM Document 127 Filed 03/31/21 Page 16 of 25
-
-71.
+92.
 
 YOUNG paid for a room for two people at the Holiday Inn in Springfield, Virginia,
 
 from January 5-6, 2021.
+93.
 
-Coordination and Participation in the January 6 Operation
-72.
+HACKETT paid for a room at the Hilton Garden Inn in Washington, D.C., from
+
+January 5-7, 2021. The room was booked in the name of PERSON SIXTEEN.
+94.
+
+DOLAN booked and paid for a room at the Hilton Garden Inn in Washington, D.C.,
+
+from January 5-7, 2021.
+
+20
+
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 21 of 38
+
+95.
+
+MINUTA, using his personal email address and his personal home address,
+
+reserved three rooms at the Mayflower Hotel in Washington, D.C., under the names of MINUTA,
+JAMES, and PERSON TWENTY. A debit card associated with PERSON FIFTEEN was used to
+pay for the room reserved under MINUTA’s name. A credit card associated with JAMES was
+used to pay for the room reserved under JAMES’s name.
+96.
+
+The January 6 Operation
+97.
 
 On the morning of January 6, 2021, YOUNG and STEELE traveled together from
 
 Springfield, Virginia, to Washington, D.C.
-73.
+98.
 
 On the morning of January 6, 2021, CROWL, WATKINS, CALDWELL,
 
 SANDRA PARKER, and BENNIE PARKER, traveled from Arlington, Virginia, to Washington,
 D.C.
-74.
+99.
 
-At 11 :21 a.m., PERSON ONE placed a phone call to KELLY MEGGS, which
+100.
+
+At 11:21 a.m., PERSON ONE placed a phone call to KELLY MEGGS, which
 
 lasted 51 seconds.
-75.
+101.
 
-On January 6, 2021, CROWL, WATKINS, SANDRA PARKER, BENNIE
+At or around this time, CROWL, WATKINS, SANDRA PARKER, BENNIE
 
-PARKER, YOUNG, STEELE, KELLY MEGGS, and CONNIE MEGGS prepared themselves for
-battle before heading to the Capitol by equipping themselves with communication devices and
-donning reinforced vests, helmets, and goggles.
-76.
+PARKER, YOUNG, STEELE, KELLY MEGGS, CONNIE MEGGS, and HACKETT prepared
+themselves for battle before heading to the Capitol by equipping themselves with communication
+devices and donning reinforced vests, helmets, and goggles.
 
-At 12:58 p.m., MINUTA placed a phone call to PERSON ONE, which lasted
+21
 
-approximately 1 minute and 11 seconds.
-77.
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 22 of 38
 
-At 1:02 p.m., PERSON ONE placed a phone call to MINUTA, which lasted
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 23 of 38
 
-approximately 1 minute and 48 seconds.
-78.
-
-At 1:59 p.m., PERSON TEN placed a phone call to JAMES, which lasted
-
-approximately 30 seconds.
-79.
+110.
 
 At 2:00 p.m., JAMES placed a phone call to PERSON TEN, which lasted
 
 approximately 1 minute and 12 seconds.
+111.
 
-16
+At 2:00 p.m., WATKINS stated on the “Stop the Steal J6” Zello channel, “Y’all,
 
-Case 1:21-cr-00028-APM Document 127 Filed 03/31/21 Page 17 of 25
-
-80.
+we’re one block away from the Capitol right now. I’m probably gonna go silent when we get
+there, because I’m gonna be a little busy.”
+112.
 
 At 2:01 p.m., PERSON TEN placed a phone call to PERSON ONE, which lasted
 
 approximately 1 minute and 41 seconds.
-81.
+113.
 
 At 2:03 p.m., PERSON TEN placed a phone call to JAMES, which lasted
 
 approximately 39 seconds. About 1 minute later, JAMES placed a phone call to PERSON TEN,
 which lasted approximately 3 minutes and 36 seconds.
-82.
+114.
 
-At 2:06 p.m., CALDWELL sent WATKINS a text message stating: "Where are
+At 2:03 p.m., the administrator of the “Stop the Steal J6” Zello channel directed the
+
+group, “You are executing citizen’s arrest. Arrest this assembly, we have probable cause for acts
+of treason, election fraud . . . .”
+115.
+
+At 2:06 p.m., PERSON ONE sent another message to the Leadership Signal Chat
+
+asking for PERSON TEN’s location before stating, “I’m trying to get to you.”
+116.
+
+At 2:06 p.m., CALDWELL sent WATKINS a text message stating: “Where are
 
 you? Pence has punked out. We are screwed. Teargassing peaceful protesters at capital steps.
-Getting rowdy here... I am here at the dry fountain to the left of the Capitol[.]"
-83.
+Getting rowdy here... I am here at the dry fountain to the left of the Capitol[.]”
+117.
 
 At 2:07 p.m., JAMES placed a phone call to PERSON TEN, which lasted
 
 approximately 30 seconds, followed by an approximately 55-second phone call at 2:10 p.m.
-84.
+118.
 
-At 2: 13 p.m., PERSON TEN placed a phone call to JAMES, which lasted
+At 2:13 p.m., PERSON TEN placed a phone call to JAMES, which lasted
 
 approximately 43 seconds.
-85.
+
+23
+
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 24 of 38
+
+119.
+
+At 2:14 p.m., PERSON TEN wrote to the Leadership Signal Chat, “The have taken
+
+ground at the capital[.] We need to regroup any members who are not on mission.”
+120.
 
 At 2:15 p.m., PERSON ONE placed a phone call to KELLY MEGGS, which lasted
 
 approximately 15 seconds.
-86.
+121.
 
 At 2:16 p.m., PERSON TEN placed a phone call to JAMES, which lasted
 
 approximately 42 seconds.
-87.
+122.
+
+At 2:21 p.m., HARRELSON and DOLAN joined the crowd on the central east steps
+
+of the Capitol.
+123.
 
 At 2:24 p.m., KELLY MEGGS placed a phone call to PERSON ONE, which lasted
 
 approximately 2 seconds.
-88.
+124.
 
-At some point prior to 2:30 p.m. on January 6, 2021, MINUTA also donned battle
+At 2:25 p.m., PERSON ONE forwarded PERSON TEN’s message (“The have
 
-apparel and gear, including hard-knuckle tactical gloves, ballistic goggles, a radio with an ear
-piece, and bear spray.
-89.
+taken ground at the capital[.] We need to regroup any members who are not on mission.”) to the
+Leadership Signal Chat and instructed: “Come to South Side of Capitol on steps” and then sent a
+photograph showing the southeast side of the Capitol.
+125.
+
+At 2:28 p.m., CROWL, WATKINS, SANDRA PARKER, BENNIE PARKER,
+
+YOUNG, STEELE, KELLY MEGGS, CONNIE MEGGS, HACKETT, and ISAACS unlawfully
+entered the restricted Capitol grounds.
+126.
 
 At 2:31 p.m., PERSON TEN placed a phone call to PERSON ONE, which lasted
 
 approximately 5 minutes and 25 seconds.
-
-17
-
-Case 1:21-cr-00028-APM Document 127 Filed 03/31/21 Page 18 of 25
-
-90.
+127.
 
 At 2:32 p.m., KELLY MEGGS placed a phone call to PERSON ONE, which lasted
 
 approximately 1 minute and 37 seconds.
-91.
+128.
 
-Between 2:30 and 2:33 p.m., MINUTA, JAMES, and others rode in a pair of golf
+24
 
-carts towards the Capitol, at times swerving around law enforcement vehicles, with MINUT A
-stating: "Patriots are storming the Capitol building; there's violence against patriots by the D.C.
-Police; so we're en route in a grand theft auto golf cart to the Capitol building right now ... it's
-going down, guys; it's literally going down right now Patriots storming the Capitol building ...
-fucking war in the streets right now ... word is they got in the building ... let's go."
-92.
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 25 of 38
 
-At about 2:33 p.m., MINUTA, JAMES, and the others in their group parked the
+129.
 
-golf carts near the intersection of Third Street and Pennsylvania Avenue, Northwest. They then
-continued on foot towards the Capitol.
-93.
+130.
 
 At 2:33 p.m., JAMES placed a phone call to PERSON TEN, which lasted
 
 approximately 49 seconds.
-94.
+131.
 
-Sometime after 2:33 p.m., MINUTA, with JAMES and others standing by,
+132.
 
-aggressively berated and taunted law enforcement officers in riot gear guarding the perimeter of
-the Capitol building, near the East side of the building.
-95.
+At 2:35 p.m., CROWL, WATKINS, SANDRA PARKER, YOUNG, STEELE,
 
-At about 2:35 p.m., CROWL, WATKINS, SANDRA PARKER, YOUNG,
-
-STEELE, KELLY MEGGS, and CONNIE MEGGS joined together with others known and
-unknown to form a stack of individuals wearing Oath Keepers clothing, patches, insignia, and
-battle gear (the "stack"). Together, the stack maneuvered in an organized and practiced fashion
-up the steps on the east side of the Capitol-each individual keeping at least one hand on the
+KELLY MEGGS, CONNIE MEGGS, HACKETT, and ISAACS joined together with others
+known and unknown to form a column or stack of individuals wearing Oath Keepers clothing,
+patches, insignia, and battle gear (the “Stack”). Together, the Stack maneuvered in an organized
+fashion up the steps on the east side of the Capitol—each member keeping at least one hand on the
 shoulder of the other in front of them.
+133.
 
-18
+Towards the top of the steps, HARRELSON and DOLAN joined with the Stack.
 
-Case 1:21-cr-00028-APM Document 127 Filed 03/31/21 Page 19 of 25
+134.
 
-96.
+At the top of the steps, the Stack joined and then pushed forward alongside a mob
 
-At the top of the steps, the stack joined and supported the crowd that was pushing
+that aggressively advanced towards the Columbus Doors at the central east entrance to the Capitol,
+assaulted the officers guarding the doors, threw objects and sprayed chemicals towards the officers
+and the doors, and pulled violently on the doors.
 
-forward towards the doors, assaulting the officers guarding the doors, throwing objects and
-spraying chemicals towards the officers and the doors, and pulling violently on the doors.
-97.
+25
 
-At about 2:40 p.m., minutes after the crowd breached the doors, CROWL,
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 26 of 38
 
-WATKINS, SANDRA PARKER, YOUNG, STEELE, KELLY MEGGS, CONNIE MEGGS,
-HARRELSON, and the others in their group forcibly entered the Capitol building.
-98.
+135.
+
+At 2:39 p.m., ISAACS joined the crowd in forcibly pushing against one of the
+
+Columbus Doors and the law enforcement officers guarding that door. Shortly thereafter, the
+Capitol doors were breached by the mob, and ISAACS entered the building.
+136.
+
+Shortly after the mob breached the doors, CROWL, WATKINS, SANDRA
+
+PARKER, YOUNG, STEELE, KELLY MEGGS, CONNIE MEGGS, HARRELSON,
+HACKETT, DOLAN, and the others in the Stack forcibly entered the Capitol.
+137.
 
 As they entered the Capitol, CROWL, WATKINS, SANDRA PARKER, YOUNG,
 
-STEELE, KELLY MEGGS, CONNIE MEGGS, HARRELSON, and the others in their group
-joined the larger crowd in pushing past at least one law enforcement officer who appeared to be
-trying to stop the crowd from breaching the Capitol building.
-99.
+STEELE, KELLY MEGGS, CONNIE MEGGS, HARRELSON, HACKETT, DOLAN, and the
+others in the Stack joined the larger mob in pushing past at least one law enforcement officer who
+was trying to stop them from breaching the Capitol building.
+138.
 
 After they penetrated the Capitol building, CROWL, WATKINS, SANDRA
 
-PARKER, YOUNG, STEELE, KELLY MEGGS, CONNIE MEGGS, HARRELSON, and the
-others in their group then collectively moved into an area inside the building known as the Capitol
-Rotunda.
-100.
+PARKER, YOUNG, STEELE, KELLY MEGGS, CONNIE MEGGS, HARRELSON,
+HACKETT, DOLAN, ISAACS, and the others in the Stack collectively moved into an area inside
+the building known as the Capitol Rotunda.
+139.
 
-As they navigated through the Capitol building, CROWL, WATKINS, SANDRA
+As they navigated through the Capitol Rotunda, CROWL, WATKINS, SANDRA
 
-PARKER, YOUNG, STEELE, KELLY MEGGS, CONNIE MEGGS, HARRELSON, and the
-others in their group continued to communicate with one another by keeping their hands on each
-other's backs.
-101.
+PARKER, YOUNG, STEELE, KELLY MEGGS, CONNIE MEGGS, HARRELSON,
+HACKETT, DOLAN, ISAACS, and the others in the Stack continued to communicate with one
+another by keeping their hands on each other’s backs.
+140.
 
-On January 6, 2021, WATKINS and others known and unknown communicated
+At 2:44 p.m., WATKINS stated on the “Stop the Steal J6” Zello channel, “We are
 
-and coordinated their actions on Zello, using a Zello channel named "Stop the Steal J6."
-WATKINS participated in the following exchanges, among others:
+in the mezzanine. We are in the main dome right now. We are rocking it. They are throwing
+grenades, they are fricking shooting people with paint balls. But we are in here.”
 
-19
+26
 
-Case 1:21-cr-00028-APM Document 127 Filed 03/31/21 Page 20 of 25
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 27 of 38
 
-a. WATKINS stated, "We have a good group. We have about 30-40 ofus. We are
-sticking together and sticking to the plan." An individual responded, "We'll see
-you soon, Jess. Airborne."
-b. An individual directed, "You are executing citizen's arrest. Arrest this assembly,
-we have probable cause for acts of treason, election fraud." WATKINS responded,
-"We are in the mezzanine. We are in the main dome right now. We are rocking it.
-They are throwing grenades, they are fucking shooting people with paint balls. But
-we are in here." An individual responded to WATKINS, telling her to be safe, and
-stated, "Get it, Jess. Do your fucking thing. This is what we fucking [unintelligible]
-up for. Everything we fucking trained for."
-102.
+141.
+
+An individual who had participated in at least one prior Oath Keeper operation with
+
+WATKINS responded, “Get it, Jess.
+
+Do your fucking thing.
+
+This is what we fucking
+
+[unintelligible] up for. Everything we fucking trained for.”
+142.
+
+Shortly thereafter, WATKINS, CROWL, SANDRA PARKER, YOUNG,
+
+STEELE, and ISAACS exited the Rotunda through the northbound hallway and attempted to enter
+the Senate wing of Congress.
+143.
+
+ISAACS yelled “the fight’s not over” and waved rioters down the hallways towards
+
+the Senate.
+144.
+
+At 2:45 p.m. and afterward, CROWL, WATKINS, SANDRA PARKER, YOUNG,
+
+and ISAACS joined the mob in pushing against a line of riot police officers guarding the hallway
+connecting the Rotunda to the Senate, as WATKINS commanded those around her to “push, push,
+push,” and to, “get in there, get in there,” while noting, “they [the officers] can’t hold us.”
+145.
+
+When officers responded by deploying a chemical spray, the mob—including
+
+CROWL, WATKINS, SANDRA PARKER, YOUNG, and ISAACS—retreated.
+146.
+
+CROWL, WATKINS, SANDRA PARKER, YOUNG, STEELE, and ISAACS
+
+regrouped in the Rotunda.
+147.
+
+At 2:45 p.m., KELLY MEGGS, CONNIE MEGGS, HARRELSON, HACKETT,
+
+and DOLAN walked southbound out of the Rotunda and towards the House of Representatives.
+148.
 
 Meanwhile, CALDWELL, who was positioned on the west side of the Capitol,
 
 joined with PERSON TWO and others known and unknown in storming past barricades and
 climbing stairs up to a balcony on the west side of the Capitol building.
-103.
+149.
 
-At 2:48 p.m., CALDWELL sent a message on Facebook, writing, "We are surging
+At 2:48 p.m., CALDWELL sent a message on Facebook, writing, “We are surging
 
-forward. Doors breached[.]"
-104.
+forward. Doors breached[.]”
 
-At 3:15 p.m., MINUTA and JAMES, together and with others known and unknown,
+27
 
-forcibly entered the Capitol building through the same east side Rotunda doors through which
-members of the stack had entered about 25 minutes earlier.
-105.
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 28 of 38
 
-At 3:15 p.m., inside the Capitol building, MINUTA and JAMES pushed past U.S.
+150.
 
-Capitol Police Officers who physically placed their hands on MINUTA and JAMES in an
-unsuccessful attempt to stop them from progressing toward the Capitol Rotunda.
-106.
+At 2:54 p.m., HACKETT exited the Capitol.
 
-At 3: 19 p.m., as MINUTA exited the Capitol building through the east side Rotunda
+151.
 
-door from which he entered, MINUTA yelled at a law enforcement officer, among other things,
+At 2:57 p.m., HARRELSON and DOLAN exited the Capitol.
 
-20
+152.
 
-Case 1:21-cr-00028-APM Document 127 Filed 03/31/21 Page 21 of 25
+At 2:59 p.m., KELLY MEGGS and CONNIE MEGGS exited the Capitol.
 
-"All that's left is the Second Amendment!" while holding up two fingers, apparently referencing
-the right to keep and bear firearms.
-107.
+153.
+
+At 3:05 p.m., CROWL, WATKINS, SANDRA PARKER, YOUNG, and STEELE
+
+helped ISAACS out of the Capitol.
+154.
+
+155.
+
+While entering the Capitol building, MINUTA and JAMES pushed past Capitol
+
+Police officers who placed their hands on MINUTA and JAMES in an unsuccessful attempt to
+stop them from advancing toward the Capitol Rotunda.
+156.
+
+At 3:17 p.m., when MINUTA and JAMES reached the entrance to the Capitol
+
+Rotunda, they joined with others in the crowd in a confrontation with a line of law enforcement
+officers that had formed a barrier between the lobby and the Capitol Rotunda. JAMES yanked and
+pushed several of the riot officers out of the way. While engaging in this conduct, JAMES
+repeatedly yelled, “Get out of my Capitol!” and “This is my fucking building! This is not yours!
+This is my Capitol!”
+157.
+
+As he stood behind JAMES while recording the events with a camera, MINUTA
+
+yelled, “This is what’s bound to happen, just get out! Get out! Get these cops out! It’s our fucking
+building! Get ‘em out, get out!”
+158.
+
+JAMES briefly breached the Rotunda but was expelled by at least one officer who
+
+aimed chemical spray directly at JAMES, and multiple officers who pushed him out from behind.
+
+28
+
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 29 of 38
+
+159.
+
+At 3:19 p.m., while exiting the Capitol building through the same east side Rotunda
+
+door from which he entered, MINUTA held up two fingers and yelled at a law enforcement officer,
+among other things, “All that’s left is the Second Amendment!”
+160.
+
+At 3:22 p.m., JAMES exited the Capitol through the east side Rotunda door from
+
+which he entered.
+161.
+
+162.
 
 At 3:40 p.m., JAMES placed a phone call to PERSON TEN, which lasted
 
 approximately 3 minutes and 4 seconds.
-108.
+163.
 
 At 4:04 p.m., MINUTA placed a phone call to PERSON ONE, which lasted
 
 approximately 42 seconds.
-109.
+164.
 
 At 4:05 p.m., PERSON ONE placed a phone call to MINUTA, which lasted
 
 approximately 2 minutes and 56 seconds.
-110.
+165.
 
-Not long after 4:00 p.m., individuals who breached the Capitol, to include YOUNG,
+Shortly after 4:00 p.m., individuals who breached the Capitol, to include YOUNG,
 
-STEELE, KELLY MEGGS, CONNIE MEGGS, HARRELSON, MINUTA, and JAMES, gathered
-together with PERSON ONE and PERSON TEN approximately 100 feet from the Capitol, near
-the northeast comer of the building.
+STEELE, KELLY MEGGS, CONNIE MEGGS, HARRELSON, MINUTA, JAMES,
+HACKETT, DOLAN, and ISAACS, among others, gathered together with PERSON ONE and
+PERSON TEN approximately 100 feet from the Capitol, near the northeast corner of the building.
 (In violation of Title 18, United States Code, Section 371)
-
 COUNT TWO
-(18 U.S.C. §§ 1512(c)(2), 2-Obstruction of an Official Proceeding and
+(18 U.S.C. §§ 1512(c)(2), 2—Obstruction of an Official Proceeding and
 Aiding and Abetting)
+166.
 
-111.
+Paragraphs 1 through 30 and paragraphs 35 through 165 of this Indictment are re-
 
-Paragraphs 1 through 25 and paragraphs 30 through 110 of this Indictment are re­
+alleged and incorporated as though set forth herein. As set forth in paragraphs 35 through 165, on
+or about January 6, 2021, in the District of Columbia and elsewhere, the defendants,
 
-alleged and incorporated as though set forth herein. On or about January 6, 2021, in the District
-of Columbia and elsewhere, the defendants,
-THOMAS CALDWELL,
-DO NOVAN CROWL,
-JESSICA WATKINS,
-SANDRA PARKER,
-BENNIE PARKER,
-GRAYDON YOUNG,
-LAURA STEELE,
-KELLY MEGGS,
-CONNIE MEGGS,
+29
 
-21
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 30 of 38
 
-Case 1:21-cr-00028-APM Document 127 Filed 03/31/21 Page 22 of 25
-
-KENNETH HARRELSON,
-ROBERTO MINUTA, and
-JOSHUA JAMES,
-attempted to, and did, corruptly obstruct, influence, and impede an official proceeding, and did aid
-and abet others known and unknown to do the same; that is, CALDWELL, CROWL, WATKJN S,
-SANDRA PARKER, BENNIE PARKER, YOUNG, STEELE, KELLY MEGGS, CONNIE
-MEGGS, HARRELSON, ROBERTO MINUTA, and JOSHUA JAMES forcibly entered the
-Capitol to, and did, stop, delay, and hinder Congress's certification of the Electoral College vote.
-(In violation of Title 18, United States Code, Sections 1512(c)(2), 2)
-
-COUNT THREE
-(18 U.S.C. §§ 1361, 2-Destruction of Government Property and Aiding and Abetting)
-112.
-
-Paragraphs 1 through 25 and paragraphs 30 through 110 of this Indictment are re­
-
-alleged and incorporated as though set forth herein.
-113.
-
-On January 6, 2021, in the District of Columbia and elsewhere, the defendants,
 THOMAS CALDWELL,
 DONOVAN CROWL,
 JESSICA WATKINS,
@@ -1077,36 +1244,64 @@ BENNIE PARKER,
 GRAYDON YOUNG,
 LAURA STEELE,
 KELLY MEGGS,
-CONNIE MEGGS, and
+CONNIE MEGGS,
 KENNETH HARRELSON,
+ROBERTO MINUTA,
+JOSHUA JAMES,
+,
+JOSEPH HACKETT,
+JASON DOLAN, and
+WILLIAM ISAACS,
+attempted to, and did, corruptly obstruct, influence, and impede an official proceeding, that is, the
+Certification of the Electoral College vote, and did aid and abet others known and unknown to do
+the same.
+(In violation of Title 18, United States Code, Sections 1512(c)(2), 2)
+COUNT THREE
+(18 U.S.C. §§ 1361, 2—Destruction of Government Property and Aiding and Abetting)
+167.
 
-attempted to, and did, willfully injure and commit depredation against property of the United
-States, and did aid and abet others known and unknown to do so; that is, CALDWELL, CROWL,
-WATKINS, SANDRA PARKER, BENNIE PARKER, YOUNG, STEELE, KELLY MEGGS,
-CONNIE MEGGS, and HARRELSON, together and with others known and unknown, forcibly
-entered the Capitol and thereby caused damage to the building in an amount more than $1,000.
-
-22
-
-Case 1:21-cr-00028-APM Document 127 Filed 03/31/21 Page 23 of 25
-
-(In violation of Title 18, United States Code, Sections 1361, 2)
-
-COUNT FOUR
-(18 U.S.C. § 1752(a)(l)-Restricted Building or Grounds)
-
-114.
-
-Paragraphs 1 through 25 and paragraphs 30 through 110 of this Indictment are re­
+Paragraphs 1 through 30 and paragraphs 35 through 165 of this Indictment are re-
 
 alleged and incorporated as though set forth herein.
-115.
+168.
 
-On or about January 6, 2021, in the District of Columbia and elsewhere, the
+As set forth in paragraphs 134 through 137 and paragraphs 142 through 145, on
 
-defendants,
+January 6, 2021, in the District of Columbia and elsewhere, the defendants,
+DONOVAN CROWL,
+JESSICA WATKINS,
+SANDRA PARKER,
+GRAYDON YOUNG,
+LAURA STEELE,
+KELLY MEGGS,
+CONNIE MEGGS,
+KENNETH HARRELSON,
+JOSEPH HACKETT,
+
+30
+
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 31 of 38
+
+JASON DOLAN, and
+WILLIAM ISAACS,
+attempted to, and did, willfully injure and commit depredation against property of the United
+States, that is, the United States Capitol building, thereby causing or attempting to cause damage
+that exceeded $1,000, and did aid and abet others known and unknown to do so.
+(In violation of Title 18, United States Code, Sections 1361, 2)
+COUNT FOUR
+(18 U.S.C. § 1752(a)(1)—Restricted Building or Grounds)
+169.
+
+Paragraphs 1 through 30 and paragraphs 35 through 165 of this Indictment are re-
+
+alleged and incorporated as though set forth herein.
+170.
+
+As set forth in paragraphs 125, 136 to 137, 148 to 149, and 154 to 155, on or about
+
+January 6, 2021, in the District of Columbia and elsewhere, the defendants,
 THOMAS CALDWELL,
-DO NOVAN CROWL,
+DONOVAN CROWL,
 JESSICA WATKINS,
 SANDRA PARKER,
 BENNIE PARKER,
@@ -1115,82 +1310,266 @@ LAURA STEELE,
 KELLY MEGGS,
 CONNIE MEGGS,
 KENNETH HARRELSON,
-ROBERTO MINUTA, and
+ROBERTO MINUTA,
 JOSHUA JAMES,
+,
+JOSEPH HACKETT,
+JASON DOLAN, and
+WILLIAM ISAACS,
 
-did unlawfully and knowingly enter and remain in a restricted building and grounds, that is, any
-posted, cordoned-off, or otherwise restricted area within the United States Capitol and its grounds,
-where the Vice President and Vice President-elect were temporarily visiting, without lawful
-authority to do so.
-(In violation of Title 18, United States Code, Section l 752(a)(l))
+31
+
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 32 of 38
+
+did knowingly enter and remain in a restricted building and grounds, that is, any posted, cordonedoff, or otherwise restricted area within the United States Capitol and its grounds, where the Vice
+President and Vice President-elect were temporarily visiting, without lawful authority to do so.
+(In violation of Title 18, United States Code, Section 1752(a)(1))
 
 COUNT FIVE
-(18 U.S.C. § 1512(c)(l)-Tampering with Documents or Proceedings)
+(18 U.S.C. §§ 231(a)(3), 2—Civil Disorder and Aiding and Abetting)
+171.
 
-116.
-
-Paragraphs 1 through 25 and paragraphs 30 through 110 of this Indictment are re­
+Paragraphs 1 through 30 and paragraphs 35 through 165 of this Indictment are re-
 
 alleged and incorporated as though set forth herein.
+172.
 
-23
+As set forth in paragraph 135, on or about January 6, 2021, within the District of
 
-Case 1:21-cr-00028-APM Document 127 Filed 03/31/21 Page 24 of 25
+Columbia, the defendant,
+WILLIAM ISAACS,
+committed and attempted to commit an act to obstruct, impede, and interfere with a law
+enforcement officer, that is, U.S. Capitol Police Officer M.C., while Officer M.C. was lawfully
+engaged in the lawful performance of his official duties incident to and during the commission of
+a civil disorder, and the civil disorder obstructed, delayed, and adversely affected the conduct and
+performance of a federally protected function.
+(In violation of Title 18, United States Code, Sections 231(a)(3), 2)
+COUNT SIX
+(18 U.S.C. §§ 231(a)(3), 2—Civil Disorder and Aiding and Abetting)
+173.
 
-117.
+Paragraphs 1 through 30 and paragraphs 35 through 165 of this Indictment are re-
 
-On January 6, 2021, the Federal Bureau of Investigation ("FBI") opened an
+alleged and incorporated as though set forth herein.
+174.
+
+As set forth in paragraphs 142 through 145, on or about January 6, 2021, within the
+
+District of Columbia, the defendants,
+
+32
+
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 33 of 38
+
+JESSICA WATKINS,
+DONOVAN CROWL,
+SANDRA PARKER,
+GRAYDON YOUNG, and
+WILLIAM ISAACS,
+committed and attempted to commit an act to obstruct, impede, and interfere with a law
+enforcement officer, that is, law enforcement officers guarding the hallway between the Capitol
+Rotunda and Senate chamber, while those officers were lawfully engaged in the lawful
+performance of their official duties incident to and during the commission of a civil disorder, and
+the civil disorder obstructed, delayed, and adversely affected the conduct and performance of a
+federally protected function.
+(In violation of Title 18, United States Code, Sections 231(a)(3), 2)
+COUNT SEVEN
+(18 U.S.C. §§ 231(a)(3), 2—Civil Disorder and Aiding and Abetting)
+175.
+
+Paragraphs 1 through 30 and paragraphs 35 through 165 of this Indictment are re-
+
+alleged and incorporated as though set forth herein.
+176.
+
+As set forth in paragraphs 156 and 158, on or about January 6, 2021, within the
+
+District of Columbia, the defendant,
+JOSHUA JAMES,
+committed and attempted to commit an act to obstruct, impede, and interfere with a law
+enforcement officer, that is, law enforcement officers in the Capitol Rotunda, while those officers
+were lawfully engaged in the lawful performance of their official duties incident to and during the
+commission of a civil disorder, and the civil disorder obstructed, delayed, and adversely affected
+the conduct and performance of a federally protected function.
+(In violation of Title 18, United States Code, Sections 231(a)(3), 2)
+
+33
+
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 34 of 38
+
+COUNT EIGHT
+(18 U.S.C. § 111(a)(1)—Assaulting, Resisting, or Impeding Certain Officers)
+177.
+
+Paragraphs 1 through 30 and paragraphs 35 through 165 of this Indictment are re-
+
+alleged and incorporated as though set forth herein.
+178.
+
+As set forth in paragraphs 156 and 158, on or about January 6, 2021, within the
+
+District of Columbia, the defendant,
+JOSHUA JAMES,
+did forcibly assault, resist, oppose, impede, intimidate, and interfere with an officer with the
+District of Columbia Metropolitan Police Department who was assisting officers and employees
+of the United States while such persons were engaged in and on account of the performance of
+official duties, and where the acts in violation of this section involved physical contact with the
+victim and the intent to commit another felony, namely, Count Two, charging Obstruction of an
+Official Proceeding and Aiding and Abetting, in violation of Title 18, United States Code, Sections
+1512(c)(2), 2.
+(In violation of Title 18, United States Code, Section 111(a)(1))
+COUNT NINE
+(18 U.S.C. § 1512(c)(1)—Tampering with Documents or Proceedings)
+179.
+
+Paragraphs 1 through 30 and paragraphs 35 through 165 of this Indictment are re-
+
+alleged and incorporated as though set forth herein.
+180.
+
+On January 6, 2021, the Federal Bureau of Investigation (“FBI”) opened an
 
 investigation into the attack on the Capitol, and a grand jury of the United States District Court for
 the District of Columbia subsequently opened an investigation.
-118.
+181.
 
 On January 8, 2021, in response to a request from CROWL for a video,
 
-CALDWELL sent the video, and subsequently unsent the message containing the video. ,
-119.
+CALDWELL sent the video, and subsequently unsent the message containing the video.
+
+34
+
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 35 of 38
+
+182.
 
 Between January 6, 2021, and January 19, 2021, CALDWELL deleted photographs
 
 from his Facebook account that documented his participation in the attack on the Capitol on
 January 6, 2021.
-120.
+183.
 
 Between January 6, 2021, and January 19, 2021, in the District of Columbia and
 
-elsewhere, the defendant, THOMAS CALDWELL, did corruptly alter, destroy, mutilate, and
-conceal a record, document, and other object, and attempted to do so, with the intent to impair its
-integrity and availability for use in an official proceeding, that is, the FBI investigation and the
-grand jury investigation into the attack on the Capitol on January 6, 2021.
-(In violation of Title 18, United States Code, Section 1512(c)(l))
+elsewhere, the defendant,
+THOMAS CALDWELL,
+did corruptly alter, destroy, mutilate, and conceal a record, document, and other object, and
+attempted to do so, with the intent to impair its integrity and availability for use in an official
+proceeding, that is, the FBI investigation and the grand jury investigation into the attack on the
+Capitol on January 6, 2021.
+(In violation of Title 18, United States Code, Section 1512(c)(1))
+COUNT TEN
+(18 U.S.C. § 1512(c)(1)—Tampering with Documents or Proceedings)
+184.
 
-COUNT SIX
-(18 U.S.C. § 1512(c)(l)-Tampering with Documents or Proceedings)
-
-121.
-
-Paragraphs 1 through 25 and paragraphs 30 through 110, and paragraph 117 of this
+Paragraphs 1 through 30, paragraphs 35 through 165, and paragraph 180 of this
 
 Indictment are re-alleged and incorporated as though set forth herein.
-122.
+185.
 
-On January 8, 2021, YOUNG deleted YOUNG's Facebook account.
+On January 8, 2021, YOUNG deleted his Facebook account.
 
-123.
+186.
 
 On January 8, 2021, in the District of Columbia and elsewhere, the defendant,
+GRAYDON YOUNG,
 
-GRAYDON YOUNG, did corruptly alter, destroy, mutilate, and conceal a record, document, and
+did corruptly alter, destroy, mutilate, and conceal a record, document, and other object, and
+attempted to do so, with the intent to impair its integrity and availability for use in an official
+proceeding, that is, the FBI investigation and the grand jury investigation into the attack on the
+Capitol on January 6, 2021.
+(In violation of Title 18, United States Code, Section 1512(c)(1))
 
-other object, and attempted to do so, with the intent to impair its integrity and availability for use
+35
 
-24
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 36 of 38
 
-Case 1:21-cr-00028-APM Document 127 Filed 03/31/21 Page 25 of 25
+COUNT ELEVEN
+(18 U.S.C. § 1512(c)(1)—Tampering with Documents or Proceedings)
+187.
 
-in an official proceeding, that is, the FBI investigation and the grand jury investigation into the
-attack on the Capitol on January 6, 2021.
-(In violation of Title 18, United States Code, Section 1512(c)(l))
+Paragraphs 1 through 30, paragraphs 35 through 165, and paragraph 180 of this
+
+Indictment are re-alleged and incorporated as though set forth herein.
+188.
+
+Sometime after January 7, 2021, KELLY MEGGS deleted from his cellular
+
+telephone certain media, files, and communications that showed his involvement in the offenses
+alleged herein.
+189.
+
+On or around January 7, 2021, in the District of Columbia and elsewhere, the
+
+defendant,
+KELLY MEGGS,
+did corruptly alter, destroy, mutilate, and conceal a record, document, and other object, and
+attempted to do so, with the intent to impair its integrity and availability for use in an official
+proceeding, that is, the FBI investigation and the grand jury investigation into the attack on the
+Capitol on January 6, 2021.
+(In violation of Title 18, United States Code, Section 1512(c)(1))
+COUNT TWELVE
+(18 U.S.C. § 1512(c)(1)—Tampering with Documents or Proceedings)
+190.
+
+Paragraphs 1 through 30, paragraphs 35 through 165, and paragraph 180 of this
+
+Indictment are re-alleged and incorporated as though set forth herein.
+191.
+
+Sometime after January 7, 2021, HARRELSON deleted from his cellular telephone
+
+certain media, files, and communications that showed his involvement in the offenses alleged
+herein.
+192.
+
+On or around January 7, 2021, in the District of Columbia and elsewhere, the
+
+defendant,
+
+36
+
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 37 of 38
+
+KENNETH HARRELSON,
+did corruptly alter, destroy, mutilate, and conceal a record, document, and other object, and
+attempted to do so, with the intent to impair its integrity and availability for use in an official
+proceeding, that is, the FBI investigation and the grand jury investigation into the attack on the
+Capitol on January 6, 2021.
+(In violation of Title 18, United States Code, Section 1512(c)(1))
+COUNT THIRTEEN
+(18 U.S.C. § 1512(c)(1)—Tampering with Documents or Proceedings)
+193.
+
+Paragraphs 1 through 30, paragraphs 35 through 165, and paragraph 180 of this
+
+Indictment are re-alleged and incorporated as though set forth herein.
+194.
+
+Sometime after January 7, 2021, JAMES deleted from his cellular telephone the
+
+Leadership Signal Chat.
+195.
+
+On January 8, 2021, JAMES instructed PERSON FIFTEEN to “make sure that all
+
+signal comms about the op has been deleted and burned,” and PERSON FIFTEEN confirmed
+PERSON FIFTEEN did in fact do so.
+196.
+
+On or around January 7-8, 2021, in the District of Columbia and elsewhere, the
+
+defendant,
+JOSHUA JAMES,
+did corruptly alter, destroy, mutilate, and conceal a record, document, and other object, and
+attempted to do so, with the intent to impair its integrity and availability for use in an official
+proceeding, that is, the FBI investigation and the grand jury investigation into the attack on the
+Capitol on January 6, 2021.
+(In violation of Title 18, United States Code, Section 1512(c)(1))
+
+37
+
+Case 1:21-cr-00028-APM Document 210 Filed 05/30/21 Page 38 of 38
 
 A TRUE BILL
 
@@ -1200,6 +1579,6 @@ CHANNING D. PHILLIPS
 ACTING ATTORNEY FOR THE UNITED STATES
 IN AND FOR THE DISTRICT OF COLUMBIA
 
-25
+38
 
 
